@@ -1,5 +1,3 @@
-import { it, expect } from 'vitest'
-
 function sum(a: number, b: number) {
   return a + b
 }
